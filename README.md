@@ -3,16 +3,17 @@
 	npm install escape-json
 ## using
 ### cli
-```
+```javascript
 $ echo '{"hello": "world"}' | ./node_modules/bin/escape-json.js
 {\"hello\": \"world\"}
 ```
 ### module
-```
+```javascript
 var escapeJson = require('escape-json');
-var escaped = escapeJson('{"hello": "world"}'); // returns '{\"hello\": \"world\"}'
+// escaped === '{\"hello\": \"world\"}'
+var escaped = escapeJson('{"hello": "world"}');
 ```
 ## tests
 will be here soon
 ## license
-	[MIT License](LICENSE)
+[MIT License](LICENSE)
