@@ -1,0 +1,26 @@
+{
+  "name": "escape-json",
+  "version": "0.1.0",
+  "description": "simple json escaping lib",
+  "main": "index.js",
+  "bin": {
+    "escape-json": "escape-json.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cassln/escape-json.git"
+  },
+  "keywords": [
+    "json",
+    "escape"
+  ],
+  "author": "cassln",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cassln/escape-json/issues"
+  },
+  "homepage": "https://github.com/cassln/escape-json"
+}
