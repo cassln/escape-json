@@ -1,7 +1,7 @@
 {
   "name": "escape-json",
   "version": "0.1.0",
-  "description": "simple json escaping lib",
+  "description": "json escaping library",
   "main": "index.js",
   "bin": {
     "escape-json": "escape-json.js"
@@ -18,7 +18,7 @@
     "escape"
   ],
   "author": "cassln",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/cassln/escape-json/issues"
   },
