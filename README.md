@@ -3,7 +3,7 @@
 	npm install escape-json
 ## using
 ### cli
-```javascript
+```bash
 $ echo '{"hello": "world"}' | ./node_modules/bin/escape-json.js
 {\"hello\": \"world\"}
 ```
