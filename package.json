@@ -4,7 +4,7 @@
   "description": "json escaping library",
   "main": "index.js",
   "bin": {
-    "escape-json": "escape-json.js"
+    "escape-json": "bin/escape-json.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
